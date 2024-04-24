@@ -1,4 +1,4 @@
-# App Layout Component Project
+# Deriv App Layout
 
 ## Description
 Deriv App Layout component is a reusable component that provides a consistent layout for all deriv app projects. it will include the header and footer components.
